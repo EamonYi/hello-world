@@ -2,5 +2,5 @@
 
 int main()
 {
-    print("%s","hello world")
+    print("%s","hello world");
 }
